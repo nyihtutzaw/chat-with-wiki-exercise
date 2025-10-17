@@ -15,6 +15,17 @@ A FastAPI application with ChromaDB vector database for document storage and sem
 - **Auto-ingestion**: Automatically loads Wikipedia content on startup
 - **Structured Data**: Tables and lists rendered beautifully in chat interface
 
+## Demo Screenshots
+<img width="1456" height="768" alt="Screenshot 2568-10-17 at 16 05 18" src="https://github.com/user-attachments/assets/a443f357-413d-4bec-8bcf-5ca1bfa1b521" />
+
+<img width="1456" height="768" alt="Screenshot 2568-10-17 at 16 07 16" src="https://github.com/user-attachments/assets/7e9c1a8b-032c-4189-9887-8a9dda536c5f" />
+
+<img width="1456" height="768" alt="Screenshot 2568-10-17 at 16 07 40" src="https://github.com/user-attachments/assets/9cf347d7-ee05-43d2-b7cd-aa2d56eddc2e" />
+
+<img width="1456" height="768" alt="Screenshot 2568-10-17 at 16 06 08" src="https://github.com/user-attachments/assets/2bd17641-a362-4bda-a34a-b34cead220e5" />
+
+
+
 ## Project Structure
 
 ```
